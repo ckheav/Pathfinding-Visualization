@@ -10,8 +10,8 @@ Keys:
 - Spacebar: starts the algorithm (when both start and end node are chosen)
 
 # Requirements
-- Python 3.7.6 or up
-- pygame
+- Python 3.7 or up
+- Pygame
 
 # Future improvements:
 - Adding recursive backtracking algorithm to generate a maze of walls in between the start and end nodes
